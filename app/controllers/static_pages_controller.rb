@@ -7,4 +7,5 @@ class StaticPagesController < ApplicationController
   end
   def acedemics
   end
+  
 end
